@@ -1,1 +1,1 @@
-# MuthalibAbdul.Portfolio.SAS.GitHub.io
+This repository contains all my projects related to SAS Studio. Please check specific projects within this repository. Make sure you go through the readme.md file before you on the project file within
