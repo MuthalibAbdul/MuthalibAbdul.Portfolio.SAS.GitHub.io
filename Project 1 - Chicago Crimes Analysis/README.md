@@ -11,6 +11,15 @@ Dataset: https://data.cityofchicago.org/Public-Safety/Crimes-2022/9hwr-2zxp/data
 
 Portfolio: https://muthalibabdul.github.io/Main.Portfolio/
 
-Project Presentation: https://github.com/MuthalibAbdul/SAS/blob/main/Project%201%20-%20Chicago%20Crimes%20Analysis/Chicago%20Motor%20Vehicle%20Theft%20Analysis.pdf
+
+
+## Questions
+
+1) How many types of crimes have been reported and what are their frequency during the study?
+2) How many Car Theft cases were reported in the city of Chicago during the year 2001 to 2022?
+3) How many arrests were made of those reported cases? what is the percentage of arrests made?
+4) Which year has reported the highest number of car theft in the city?
+5) What is the worst hit community area in Chicago affected car thefts?
+6) Which months of the year are more vulnerable to car thefts?
 
 
