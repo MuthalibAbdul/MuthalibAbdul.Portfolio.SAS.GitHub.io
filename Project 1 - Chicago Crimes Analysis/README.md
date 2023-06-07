@@ -11,6 +11,7 @@ Dataset: https://data.cityofchicago.org/Public-Safety/Crimes-2022/9hwr-2zxp/data
 
 Portfolio: https://muthalibabdul.github.io/Main.Portfolio/
 
+Full Project Presentation: https://github.com/MuthalibAbdul/SAS/blob/main/Project%201%20-%20Chicago%20Crimes%20Analysis/Chicago%20Motor%20Vehicle%20Theft%20Analysis.pdf
 
 
 ## Questions
