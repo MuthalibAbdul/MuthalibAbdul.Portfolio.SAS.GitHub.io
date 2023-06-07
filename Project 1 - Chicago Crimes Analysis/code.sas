@@ -1,3 +1,4 @@
+Step 1: Accessing Data
 /* Using proc import to import xlsx file initially, Do not run, takes 10 mins to load */
 options validvarname=v7;
 proc import datafile="/home/u60639771/Chicago_Crime/Chicago_Crimes_2001-2022.xlsx" dbms=xlsx
@@ -6,6 +7,7 @@ out=mydata.crime_out;
 /* Create library called mydata which has the crime data set */
 libname mydata "/home/u60639771/Projects";
 
+Step 2: Data Exploration
 /* Using proc contents to understand the data set */
 proc contents data=mydata.crime_out;
 run;
@@ -22,12 +24,14 @@ proc freq data=mydata.crime_out;
 tables Primary_Type*Arrest / norow nocol nocum;
 run;
 
+Step 3: Data Cleaning
 /* Using Keep function to keep only a limited number of variables for further analysis */
 data crime1;
 set mydata.crime_out;
 keep ID Date Primary_Type Location_Description Community_Area Arrest;
 run;
 
+Step 4: Data Manipulation
 /* Subsetting data to MOTOR VEHICLE THEFT and creating new variables*/
 data crime2;
 set work.crime1;
@@ -54,6 +58,7 @@ set crime2;
 format arrest arr.;
 run;
 
+Step 5: Data Analysis & Interpretation
 /* proc freq */
 proc freq data=crime3 order=freq;
 tables Year;
