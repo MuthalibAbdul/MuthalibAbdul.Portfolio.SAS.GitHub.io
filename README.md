@@ -12,7 +12,7 @@ Project 1 - Chicago Crimes Analysis - https://github.com/MuthalibAbdul/SAS/tree/
 
 Project 2 - TSA Claims Analysis - https://github.com/MuthalibAbdul/SAS/tree/main/Project%202%20-%20TSA%20Claims%20Analysis
 
-## 🔗 Links
+## 🔗 Other Links
 [![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://muthalibabdul.github.io/Main.Portfolio/)
 [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/muthalibabdul/)
 
